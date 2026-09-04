@@ -7,7 +7,7 @@ about:
   head: decafd5
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T20:01:41Z
+  collectedAt: 2026-09-04T20:42:27Z
 timeline:
   created: 2012-06-18
   lastCommit: 2025-08-29
@@ -80,6 +80,29 @@ total:
   openIssue: 149
   commit: 169
 ---
+path: /home/runner/.x-repo/github.com/localtunnel/localtunnel
+collectedAt: 2026-09-04T20:42:28Z
+loc:
+  JavaScript:
+    code: 487
+    comments: 36
+    blanks: 96
+    files: 6
+  Json:
+    code: 35
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 129
+    blanks: 81
+    files: 2
+total:
+  code: 523
+  comments: 165
+  blanks: 177
+  files: 9
 ---
 date: "2026-08-24"
 repo:
