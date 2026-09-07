@@ -5,7 +5,7 @@ about:
   head: decafd5
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:34:58Z
+  collectedAt: 2026-09-07T18:58:35Z
 timeline:
   created: 2012-06-18
   lastCommit: 2025-08-29
@@ -79,7 +79,7 @@ total:
   commit: 169
 ---
 path: /home/runner/.x-repo/github.com/localtunnel/localtunnel
-collectedAt: 2026-09-07T05:34:58Z
+collectedAt: 2026-09-07T18:58:36Z
 loc:
   JavaScript:
     code: 487
@@ -179,7 +179,7 @@ checks:
       - 'Warn: 0 commits out of 9 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:34:59+00:00
+  collectedAt: 2026-09-07T18:58:36+00:00
   platform:
     darwin/arm64:
       name:  null
