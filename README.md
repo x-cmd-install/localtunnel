@@ -7,7 +7,7 @@ expose yourself
 - **Latest release**: `` (n/a)
 - **Last commit**: 2025-08-29
 - **License**: MIT
-- **Stars**: 22466 · **Forks**: 1565 · **Open issues**: 620 · **Contributors**: 35
+- **Stars**: 22467 · **Forks**: 1565 · **Open issues**: 620 · **Contributors**: 35
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/localtunnel> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:42:52Z._
+_Last regenerated: 2026-09-09T05:47:27Z._
