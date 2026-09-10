@@ -1,0 +1,51 @@
+- repo: homebrew
+  srcname: localtunnel
+  visiblename: localtunnel
+  version: 2.0.2
+  origversion: null
+  status: newest
+  summary: Exposes your localhost to the world for easy testing and sharing
+- repo: nix_stable_25_11
+  srcname: localtunnel
+  visiblename: localtunnel
+  version: 2.0.2
+  origversion: null
+  status: newest
+  summary: CLI for localtunnel
+  maintainers:
+    - pyrox@pyrox.dev
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: localtunnel
+  visiblename: localtunnel
+  version: 2.0.2
+  origversion: null
+  status: newest
+  summary: CLI for localtunnel
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: localtunnel
+  visiblename: localtunnel
+  version: 2.0.2
+  origversion: null
+  status: newest
+  summary: CLI for localtunnel
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: openpkg_current
+  srcname: localtunnel
+  visiblename: localtunnel
+  version: "20230518"
+  origversion: null
+  status: untrusted
+  summary: Localtunnel Client
+  licenses:
+    - MIT
+  categories:
+    - Networking
