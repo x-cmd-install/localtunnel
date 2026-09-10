@@ -4,35 +4,13 @@
 
 expose yourself
 
-![localtunnel](https://repo.x-cmd.io/localtunnel.svg)
+![localtunnel](https://repo.x-cmd.io/localtunnel.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install localtunnel
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/localtunnel/localtunnel>
-- **官网**: <https://localtunnel.me>
-- **许可证**: MIT
-
-## 流行度
-
-- **Star**: 22,466 · **Fork**: 1,565 · **开放 issue**: 620 · **贡献者**: 35
-
-## 累计统计
-
-- **发布数**: 0 · **已合并 PR**: 34 · **开放 PR**: 17 · **已关闭 issue**: 471 · **开放 issue**: 149 · **提交数**: 169
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 2 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 8 | 7 | 0 |
 
 ## 代码规模
 
@@ -54,6 +32,40 @@ x install localtunnel
 - **Dangerous-Workflow** (-1/10) — no workflows found
 - **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
 
+## 源代码
+
+- **上游仓库**: <https://github.com/localtunnel/localtunnel>
+- **官网**: <https://localtunnel.me>
+- **许可证**: MIT
+
+## 流行度
+
+- **Star**: 22,467 · **Fork**: 1,565 · **开放 issue**: 620 · **贡献者**: 35
+
+## 累计统计
+
+- **发布数**: 0 · **已合并 PR**: 34 · **开放 PR**: 17 · **已关闭 issue**: 471 · **开放 issue**: 149 · **提交数**: 169
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 2 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 4 | 2 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 8 | 7 | 0 |
+| last720d | 2024-09-20 | 0 | 1 | 2 | 37 | 15 | 2 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/localtunnel) 上共有 **5** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `2.0.2` | ✅ latest |
+| Nix unstable | `2.0.2` | ✅ latest |
+
 ## 改进这些数据
 
 localtunnel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `localtunnel` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -63,4 +75,4 @@ localtunnel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:49:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:32:10Z._
