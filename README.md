@@ -40,22 +40,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,489 · **Forks**: 1,569 · **Open issues**: 621 · **Contributors**: 35
+- **Stars**: 22,489 · **Forks**: 1,569 · **Open issues**: 622 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 34 · **Open PRs**: 17 · **Closed issues**: 471 · **Open issues**: 150 · **Commits**: 169
+- **Releases**: 0 · **Merged PRs**: 34 · **Open PRs**: 17 · **Closed issues**: 472 · **Open issues**: 150 · **Commits**: 169
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-28 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-28 | 0 | 0 | 0 | 1 | 1 | 0 |
-| last180d | 2026-03-30 | 0 | 0 | 0 | 4 | 3 | 0 |
-| 360d | 2025-10-01 | 0 | 0 | 0 | 8 | 7 | 0 |
-| last720d | 2024-10-06 | 0 | 1 | 2 | 35 | 16 | 2 |
+| 30d | 2026-08-28 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last60d | 2026-07-29 | 0 | 0 | 0 | 1 | 1 | 0 |
+| 90d | 2026-06-29 | 0 | 0 | 0 | 2 | 1 | 0 |
+| last180d | 2026-03-31 | 0 | 0 | 0 | 5 | 3 | 0 |
+| 360d | 2025-10-02 | 0 | 0 | 0 | 9 | 7 | 0 |
+| last720d | 2024-10-07 | 0 | 1 | 2 | 35 | 16 | 2 |
 
 ## Improve this data
 
@@ -66,4 +66,4 @@ Install metadata for localtunnel lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:43:45Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:09:12Z._
