@@ -28,9 +28,9 @@ Overall score: **2.5 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Maintained** (0/10) — 0 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Pinned-Dependencies** (-1/10) — no dependencies found
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -40,7 +40,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,488 · **Forks**: 1,569 · **Open issues**: 622 · **Contributors**: 35
+- **Stars**: 22,487 · **Forks**: 1,569 · **Open issues**: 622 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 1 | 1 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 1 | 1 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 2 | 1 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 0 | 5 | 3 | 0 |
-| 360d | 2025-10-03 | 0 | 0 | 0 | 9 | 7 | 0 |
-| last720d | 2024-10-08 | 0 | 1 | 2 | 35 | 16 | 2 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 0 | 1 | 1 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 0 | 2 | 1 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 0 | 5 | 3 | 0 |
+| 360d | 2025-10-04 | 0 | 0 | 0 | 9 | 7 | 0 |
+| last720d | 2024-10-09 | 0 | 1 | 2 | 35 | 16 | 2 |
 
 ## Improve this data
 
@@ -66,4 +66,4 @@ Install metadata for localtunnel lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:16:12Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:48:30Z._
