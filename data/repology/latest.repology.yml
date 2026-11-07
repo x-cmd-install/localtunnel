@@ -38,14 +38,3 @@
     - fallback-mnt-nix@repology
   licenses:
     - MIT
-- repo: openpkg_current
-  srcname: localtunnel
-  visiblename: localtunnel
-  version: "20230518"
-  origversion: null
-  status: untrusted
-  summary: Localtunnel Client
-  licenses:
-    - MIT
-  categories:
-    - Networking
