@@ -22,6 +22,16 @@ x install localtunnel
 | Json | 35 | 0 | 0 | 1 |
 | Markdown | 0 | 129 | 81 | 2 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **2.5 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Pinned-Dependencies** (-1/10) — no dependencies found
+- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/localtunnel/localtunnel>
@@ -30,7 +40,7 @@ x install localtunnel
 
 ## 流行度
 
-- **Star**: 22,503 · **Fork**: 1,565 · **开放 issue**: 623 · **贡献者**: 35
+- **Star**: 22,501 · **Fork**: 1,565 · **开放 issue**: 623 · **贡献者**: 35
 
 ## 累计统计
 
@@ -40,12 +50,12 @@ x install localtunnel
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 1 | 1 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 1 | 2 | 0 |
-| last180d | 2026-05-27 | 0 | 0 | 0 | 3 | 3 | 0 |
-| 360d | 2025-11-28 | 0 | 0 | 0 | 6 | 7 | 0 |
-| last720d | 2024-12-03 | 0 | 1 | 2 | 26 | 17 | 2 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 1 | 1 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 1 | 2 | 0 |
+| last180d | 2026-05-28 | 0 | 0 | 0 | 3 | 3 | 0 |
+| 360d | 2025-11-29 | 0 | 0 | 0 | 6 | 6 | 0 |
+| last720d | 2024-12-04 | 0 | 1 | 2 | 26 | 17 | 2 |
 
 ## 发行版状态
 
@@ -65,4 +75,4 @@ localtunnel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T10:31:29Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:34:23Z._
